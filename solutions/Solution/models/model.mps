@@ -1032,7 +1032,7 @@
       </node>
       <node concept="1FHY16" id="4oDuG44ZgCB" role="ZXjPg">
         <property role="1MXi1$" value="QEGVPKFBDM" />
-        <ref role="L_9Jz" node="4oDuG44Zjfv" resolve="DefaultStyle" />
+        <ref role="L_9Jz" node="4oDuG44Zjfv" resolve="HeatmapStyle" />
         <node concept="2tnku" id="4oDuG44ZgCC" role="2thHW">
           <property role="2Lhm2Y" value="true" />
           <ref role="2wXwy3" node="4oDuG44Ze4P" resolve="ID" />
@@ -1099,7 +1099,7 @@
     </node>
   </node>
   <node concept="2YPoW8" id="4oDuG44Zjfv">
-    <property role="TrG5h" value="DefaultStyle" />
+    <property role="TrG5h" value="HeatmapStyle" />
     <node concept="24aBtg" id="4oDuG44Zjfw" role="2YPqp2">
       <property role="TrG5h" value="Sequential-YellowOrangeRed" />
       <ref role="24aBtv" to="wiqx:1xsIq4y9NE" resolve="Sequential-YellowOrangeRed" />
